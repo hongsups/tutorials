@@ -12,3 +12,6 @@ python_practice is a collection of IPython notebooks to follow code examples fro
  
 12/31/15
 - Time series tutorial using Seattle bike data (see jakevdp's [blog post](http://jakevdp.github.io/blog/2014/06/10/is-seattle-really-seeing-an-uptick-in-cycling/))
+
+07/18/16
+- Python Workflow Part 2 and 3 by Katie Malone (Civis Analytics)
