@@ -15,3 +15,6 @@ python_practice is a collection of IPython notebooks to follow code examples fro
 
 07/18/16
 - Python Workflow Part 2 and 3 by Katie Malone (Civis Analytics)
+
+07/21/16
+- DataChallenge: convert LAS files (well logs) and build a random forest classifier to identify sand/non-sand layers
